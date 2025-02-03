@@ -6,7 +6,7 @@
 
 ## Introduction :
 
-During the highschool in 2022, i had to develop with 2 of my IT partners, an illustration of a game by using only python code, coordinates, geometry mathematics, pixels and hexadecimal for colors. 
+During the highschool in 2022, i had to develop with 2 of my IT partners, an illustration of a game by using only python code, coordinates, geometry mathematics, recursivity logic, pixels and hexadecimal for colors. 
 I was with my partner Amine Belhaj and Pheakdey Sop and we worked on this project for almost 2 weeks just for the pleasure to work together on an uncommon python project. 
 So no deadline and no stress ! Only fun ! :)
 
